@@ -1,0 +1,17 @@
+body{
+	background:#999;
+}
+
+h1{
+	font-size: 120px;
+	text-align: center;
+	margin-top: 150px;
+	font-family:cursive;
+	letter-spacing: -5px;
+	color:#673893;
+	text-transform: lowercase;
+	text-shadow: 5px 10px 0 black,
+					6px 2px 3px blue;
+
+
+}
